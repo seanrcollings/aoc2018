@@ -38,6 +38,7 @@ for line in input_data:
 		else:
 			input_hash.update({removed_char: line})
 
+# Part 2 answer cnjxoritzhvbosyewrmqhgkul
 input_file.close()
 
 
